@@ -35,8 +35,9 @@
 | Core Vector | Focus & Specialization | Methodology & Standards |
 | :--- | :--- | :--- |
 | **🛡️ Offensive & Defensive Security** | Exploit Dev, IoT Reconnaissance, Adversarial ML & Neural Trojans | **ISO/IEC 27001**, Tríada CIA, Cryptography (AES/RSA/PKI) |
+| **🏎️ Kernel & Automotive Firmware** | **Linux eBPF** firewalls (`CondorWall`), Bosch MEDC17 ECU checksums, EEPROM | Binary Reverse Engineering, Disassembly, Kernel Sockets |
 | **🦀 Concurrency & Backends** | High-throughput Microservices in **Rust (Axum/Tokio)** & **FastAPI** | Clean / Hexagonal Architecture, Celery, Redis Atomic Locks |
-| **🤖 Autonomous AI & Agents** | Multi-Agent Swarms, Tool-use, and Model Context Protocol (MCP) | Swarm Intelligence, LangGraph patterns, Vector ASTs |
+| **🤖 Autonomous AI & Gateways** | Enterprise AI Gateways (`OmniRoute`), Multi-Agent Swarms & MCP Servers | Swarm Intelligence, Token Compression, Vector ASTs |
 | **🐘 Big Data & Analytics** | Distributed Processing (**Hadoop HDFS HA, Spark**) & Data Warehousing | **CRISP-DM / KDD**, **DMBOK2 (DAMA)**, Power BI DAX |
 | **☁️ Cloud & Infrastructure** | **AWS** (EC2, S3, RDS, IAM, VPC), Containers (**Docker/Compose**), Linux | Infrastructure as Code, Linux Hardening, Cisco CCNA Networking |
 
@@ -62,8 +63,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
-### 🛡️ Cybersecurity & Defensive Engineering
+### 🛡️ Cybersecurity, Kernel & Low-Level Engineering
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![eBPF](https://img.shields.io/badge/Linux_eBPF_/_NFQUEUE-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FF6633)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
@@ -71,14 +73,20 @@
 ![Cryptography](https://img.shields.io/badge/AES--256%20%2F%20RSA%20%2F%20PKI-0D1117?style=for-the-badge&logo=vault&logoColor=00FF41)
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-0D1117?style=for-the-badge&logo=adguard&logoColor=00FF41)
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🏎️ Automotive Firmware & Binary Reverse Engineering
+![ECU Checksum](https://img.shields.io/badge/Bosch_MEDC17_ECU-0D1117?style=for-the-badge&logo=electron&logoColor=FF9900)
+![EEPROM](https://img.shields.io/badge/EEPROM_Binary_Disassembly-0D1117?style=for-the-badge&logo=gnu&logoColor=00FF41)
+![Hex Patching](https://img.shields.io/badge/Automated_Hex_Patching-0D1117?style=for-the-badge&logo=sublimetext&logoColor=FF6633)
+![Hardware Hacking](https://img.shields.io/badge/Embedded_Hardware_Security-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
+
+### 🤖 Artificial Intelligence, Agents & Vector Memory
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![OpenCV](https://img.shields.io/badge/OpenCV_ALPR-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![ChromaDB](https://img.shields.io/badge/ChromaDB_Vectors-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0D1117?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 ### 🐘 Big Data, Databases & Business Intelligence
@@ -90,12 +98,13 @@
 ![Power BI](https://img.shields.io/badge/Power_BI_DAX-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![DMBOK2](https://img.shields.io/badge/DMBOK2_Data_Governance-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
-### ⚙️ Backend & Distributed Systems
+### ⚙️ Backend, Systems & Mobile
 ![Axum](https://img.shields.io/badge/Axum_(Rust)-0D1117?style=for-the-badge&logo=rust&logoColor=DEA584)
 ![Tokio](https://img.shields.io/badge/Tokio_Async-0D1117?style=for-the-badge&logo=rust&logoColor=00FF41)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC_/_aiortc-0D1117?style=for-the-badge&logo=webrtc&logoColor=333333)
+![Android](https://img.shields.io/badge/Android_/_Flet-0D1117?style=for-the-badge&logo=android&logoColor=34A853)
 ![Celery](https://img.shields.io/badge/Celery_Workers-0D1117?style=for-the-badge&logo=celery&logoColor=37814A)
 
 ### ☁️ Cloud, DevOps & Infrastructure
@@ -180,26 +189,37 @@
 
 </div>
 
-### 🛡️ Offensive Security, IoT & Adversarial Machine Learning
+### 🦅 Linux Kernel, Low-Level Security & Network Defenses
 | Project | Domain / Type | Core Technologies | Architecture & Purpose |
 | :--- | :--- | :--- | :--- |
+| **`CondorWall`** | Linux Application Firewall | `Rust` `Linux eBPF` `NFQUEUE` `IPC` | Low-level interactive application-layer firewall for Linux; intercepts socket connections in kernel-space via eBPF/NFQUEUE and queries a root Rust daemon via UNIX sockets. |
 | **[`CamXploit`](https://github.com/matcon/CamXploit)** | IoT Exploitation & Recon | `Python` `Networking` `RTSP` | Automated vulnerability detection, fingerprinting, and exploitation framework for networked IP cameras. |
-| **[`TrojanNet`](https://github.com/matcon/TrojanNet)** | Adversarial AI Security | `PyTorch` `Deep Learning` `CNN` | Research on neural network backdoor injection, stealthy trigger generation, and model integrity verification. |
-| **[`HackingNeuralNetworks`](https://github.com/matcon/HackingNeuralNetworks)** | AI Red Teaming | `Python` `Adversarial ML` `Jupyter` | Practical implementations of evasion attacks, poisoning, and robustness testing on deep learning models. |
 | **[`shennina`](https://github.com/matcon/shennina)** | Offensive Framework | `Python` `Exploit Dev` `CLI` | Modular penetration testing tool designed for automated payload dispatch, scanning, and reconnaissance. |
+| **`audio-bridge`** | Low-Latency Systems | `C / Rust` `ALSA` `UDP Sockets` | Ultra-low latency real-time network audio streaming bridge between Linux and Android devices. |
 
-### 🤖 Agentic AI, MCP & Swarm Intelligence
+### 🏎️ Automotive Firmware & Embedded Reverse Engineering
 | Project | Domain / Type | Core Technologies | Architecture & Purpose |
 | :--- | :--- | :--- | :--- |
+| **`medc17-checksum-tool`** | Automotive ECU Security | `Python` `C` `Binary Hex` `ECU` | Firmware checksum recalculator and validation utility for Bosch MEDC17, Fujitsu, and Denso automotive microcontrollers. |
+| **`ai_odometer_engine`** | Binary Pattern Recognition | `PyTorch` `Hex Diffing` `EEPROM` | Machine learning engine for discovering calibration patterns in raw EEPROM binary dumps and generating automated hex patches. |
+
+### 🤖 Agentic AI, AI Gateways & Swarm Intelligence
+| Project | Domain / Type | Core Technologies | Architecture & Purpose |
+| :--- | :--- | :--- | :--- |
+| **`OmniRoute`** | Enterprise AI Gateway | `TypeScript` `Python` `FastAPI` `Proxy` | The Free AI Gateway aggregating 278 AI providers across 43 pools; features stacked token compression (RTK + Caveman) saving ~89% tokens and intelligent failover. |
 | **[`swarmclaw`](https://github.com/matcon/swarmclaw)** | Multi-Agent Orchestration | `Python` `Agents` `Swarm` | Scalable coordination engine enabling autonomous multi-agent task distribution, tool-calling, and consensus. |
 | **[`strix`](https://github.com/matcon/strix)** | Security Intelligence Agent | `Python` `AI` `OSINT` | Autonomous cybersecurity intelligence gatherer and automated attack surface analysis assistant. |
+| **`aura-agent`** | Autonomous Web Agent | `Python` `ChromaDB` `Browser Automation` | Autonomous browser agent capable of multi-step task execution, DOM distillation, and vector memory retrieval. |
 | **[`codebase-memory-mcp`](https://github.com/matcon/codebase-memory-mcp)** | Model Context Protocol | `TypeScript` `MCP` `Graph AST` | High-performance MCP server providing persistent AST memory and graph reasoning for AI coding agents. |
 | **[`agency-agents`](https://github.com/matcon/agency-agents)** | Multi-Agent Workflows | `Python` `Prompt Ops` `Workflows` | Production-ready specialized AI agent configurations designed for complex engineering problem-solving. |
 
-### ⚡ Distributed Systems, Scrapers & Deep Learning
+### ⚡ Distributed Systems, Edge AI & Deep Learning
 | Project | Domain / Type | Core Technologies | Architecture & Purpose |
 | :--- | :--- | :--- | :--- |
 | **[`Medicapp`](#%EF%B8%8F-academic--engineering-milestone-medicapp)** | Telemedicine Microservices | `Rust` `Axum` `WebRTC` `PostgreSQL` | Capstone high-performance telemedicine backend featuring Clean Architecture, atomic locks, and real-time audio/video. |
+| **`android_ocr_patentes`** | Edge Computer Vision | `Python` `OpenCV` `Flet` `Android` | Real-time on-device Automatic License Plate Recognition (ALPR) system for vehicle surveillance and parking automation. |
+| **[`TrojanNet`](https://github.com/matcon/TrojanNet)** | Adversarial AI Security | `PyTorch` `Deep Learning` `CNN` | Research on neural network backdoor injection, stealthy trigger generation, and model integrity verification. |
+| **[`HackingNeuralNetworks`](https://github.com/matcon/HackingNeuralNetworks)** | AI Red Teaming | `Python` `Adversarial ML` `Jupyter` | Practical implementations of evasion attacks, poisoning, and robustness testing on deep learning models. |
 | **[`obscura`](https://github.com/matcon/obscura)** | Anti-bot Web Engine | `Rust` `Python` `Automation` | High-velocity headless web engine for stealth scraping, bypass mitigation, and markdown extraction. |
 | **[`Real-Time-Voice-Cloning`](https://github.com/matcon/Real-Time-Voice-Cloning)** | Audio Deep Learning | `PyTorch` `Tacotron` `WaveRNN` | Real-time multi-speaker voice synthesis and acoustic identity cloning pipeline. |
 | **[`faceswap`](https://github.com/matcon/faceswap)** | Computer Vision | `Python` `OpenCV` `Autoencoders` | Deep neural autoencoder models for high-fidelity facial alignment and landmark reconstruction. |
