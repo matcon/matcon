@@ -193,6 +193,7 @@
 | Project | Domain / Type | Core Technologies | Architecture & Purpose |
 | :--- | :--- | :--- | :--- |
 | **`CondorWall`** | Linux Application Firewall | `Rust` `Linux eBPF` `NFQUEUE` `IPC` | Low-level interactive application-layer firewall for Linux; intercepts socket connections in kernel-space via eBPF/NFQUEUE and queries a root Rust daemon via UNIX sockets. |
+| **[`dotfiles`](https://github.com/matcon/dotfiles)** | Disaster Recovery & SysAdmin | `Bash` `Niri` `Kitty` `Zsh` | Complete Arch Linux disaster recovery suite; automated installer, 250+ package definitions, and configs for Niri & DMS. |
 | **[`CamXploit`](https://github.com/matcon/CamXploit)** | IoT Exploitation & Recon | `Python` `Networking` `RTSP` | Automated vulnerability detection, fingerprinting, and exploitation framework for networked IP cameras. |
 | **[`shennina`](https://github.com/matcon/shennina)** | Offensive Framework | `Python` `Exploit Dev` `CLI` | Modular penetration testing tool designed for automated payload dispatch, scanning, and reconnaissance. |
 | **`audio-bridge`** | Low-Latency Systems | `C / Rust` `ALSA` `UDP Sockets` | Ultra-low latency real-time network audio streaming bridge between Linux and Android devices. |
@@ -230,6 +231,7 @@
 
 ### 📌 Interactive Project Highlights
 
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=dotfiles&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/dotfiles)
 [![CamXploit](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=CamXploit&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/CamXploit)
 [![strix](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=strix&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/strix)
 [![swarmclaw](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=swarmclaw&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/swarmclaw)
