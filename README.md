@@ -15,43 +15,36 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 System Dossier & Identity
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  ██╗███╗   ██╗███████╗ ██████╗                                              │
-│  ██║████╗  ██║██╔════╝██╔═══██╗                                             │
-│  ██║██╔██╗ ██║█████╗  ██║   ██║                                             │
-│  ██║██║╚██╗██║██╔══╝  ██║   ██║                                             │
-│  ██║██║ ╚████║██║     ╚██████╔╝                                             │
-│  ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝                                             │
-│                                                                             │
-│  ╭─ Identity & Background ───────────────────────────────────────────────╮  │
-│  │  Handle    →  MATCON                                                  │  │
-│  │  Site      →  https://matconsec.com                                   │  │
-│  │  Formation →  Ingeniería en Informática & Telecomunicaciones (INACAP) │  │
-│  │  Capstone  →  Medicapp (High-Performance Distributed Telemedicine)    │  │
-│  │  Roles     →  Security Researcher │ AI & Data Engineer │ Systems Dev  │  │
-│  ╰───────────────────────────────────────────────────────────────────────╯  │
-│                                                                             │
-│  ╭─ Core Specializations ────────────────────────────────────────────────╮  │
-│  │  ▸ Offensive & Defensive Security (ISO 27001, Exploit Dev, Crypto)    │  │
-│  │  ▸ Distributed Backends & Microservices (Rust Axum / Tokio / WebRTC)  │  │
-│  │  ▸ AI, Deep Learning & Computer Vision (PyTorch, YOLO, Voice Cloning) │  │
-│  │  ▸ Big Data & Data Engineering (Hadoop HDFS/HA, PySpark, ETL, Lakes)  │  │
-│  │  ▸ Cloud Architecture & SysAdmin (AWS VPC/EC2/RDS, Linux RHEL/Arch)   │  │
-│  │  ▸ Business Intelligence & Data Warehousing (Power BI, DMBOK2, OLAP)  │  │
-│  ╰───────────────────────────────────────────────────────────────────────╯  │
-│                                                                             │
-│  ╭─ Methodologies & Standards ───────────────────────────────────────────╮  │
-│  │  Clean Architecture · CRISP-DM / KDD · ISO/IEC 27001 · DMBOK2 · Scrum│  │
-│  ╰───────────────────────────────────────────────────────────────────────╯  │
-│                                                                             │
-│  💬 "Break it, understand it, re-engineer it with uncompromising rigor."   │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+ 🔴 🟡 🟢  matcon@archlinux: ~ (zsh)
+─────────────────────────────────────────────────────────────────────────────
+        /\         OS:       Arch Linux x86_64 [Wayland / Niri]
+       /  \        Kernel:   Linux 6.19.10-arch / eBPF-enabled
+      /\   \       Terminal: kitty + zsh
+     /      \      Host:     MATCON Research Lab (https://matconsec.com)
+    /   ,,   \     Degree:   B.S. Informatics & Telecommunications Engineering (INACAP)
+   /   |  |  -\    Capstone: Medicapp (Rust Axum 0.7 + Real-Time WebRTC Microservices)
+  /_-''    ''-_\   Status:   Security Researcher │ AI & Data Engineer │ Systems Builder
+─────────────────────────────────────────────────────────────────────────────
 ```
+
+<div align="center">
+
+| Core Vector | Focus & Specialization | Methodology & Standards |
+| :--- | :--- | :--- |
+| **🛡️ Offensive & Defensive Security** | Exploit Dev, IoT Reconnaissance, Adversarial ML & Neural Trojans | **ISO/IEC 27001**, Tríada CIA, Cryptography (AES/RSA/PKI) |
+| **🦀 Concurrency & Backends** | High-throughput Microservices in **Rust (Axum/Tokio)** & **FastAPI** | Clean / Hexagonal Architecture, Celery, Redis Atomic Locks |
+| **🤖 Autonomous AI & Agents** | Multi-Agent Swarms, Tool-use, and Model Context Protocol (MCP) | Swarm Intelligence, LangGraph patterns, Vector ASTs |
+| **🐘 Big Data & Analytics** | Distributed Processing (**Hadoop HDFS HA, Spark**) & Data Warehousing | **CRISP-DM / KDD**, **DMBOK2 (DAMA)**, Power BI DAX |
+| **☁️ Cloud & Infrastructure** | **AWS** (EC2, S3, RDS, IAM, VPC), Containers (**Docker/Compose**), Linux | Infrastructure as Code, Linux Hardening, Cisco CCNA Networking |
+
+</div>
+
+<br/>
+
+> ⚡ *"In a world of locked doors, deep curiosity and rigorous engineering build the master keys."*
 
 ---
 
@@ -179,13 +172,49 @@
 
 ---
 
-## 🔥 Featured Repositories & Research
+## 🔥 Featured Repositories & Research Lab
 
 <div align="center">
 
+> *"Building offensive security tooling, resilient distributed architectures, and autonomous agentic intelligence."*
+
+</div>
+
+### 🛡️ Offensive Security, IoT & Adversarial Machine Learning
+| Project | Domain / Type | Core Technologies | Architecture & Purpose |
+| :--- | :--- | :--- | :--- |
+| **[`CamXploit`](https://github.com/matcon/CamXploit)** | IoT Exploitation & Recon | `Python` `Networking` `RTSP` | Automated vulnerability detection, fingerprinting, and exploitation framework for networked IP cameras. |
+| **[`TrojanNet`](https://github.com/matcon/TrojanNet)** | Adversarial AI Security | `PyTorch` `Deep Learning` `CNN` | Research on neural network backdoor injection, stealthy trigger generation, and model integrity verification. |
+| **[`HackingNeuralNetworks`](https://github.com/matcon/HackingNeuralNetworks)** | AI Red Teaming | `Python` `Adversarial ML` `Jupyter` | Practical implementations of evasion attacks, poisoning, and robustness testing on deep learning models. |
+| **[`shennina`](https://github.com/matcon/shennina)** | Offensive Framework | `Python` `Exploit Dev` `CLI` | Modular penetration testing tool designed for automated payload dispatch, scanning, and reconnaissance. |
+
+### 🤖 Agentic AI, MCP & Swarm Intelligence
+| Project | Domain / Type | Core Technologies | Architecture & Purpose |
+| :--- | :--- | :--- | :--- |
+| **[`swarmclaw`](https://github.com/matcon/swarmclaw)** | Multi-Agent Orchestration | `Python` `Agents` `Swarm` | Scalable coordination engine enabling autonomous multi-agent task distribution, tool-calling, and consensus. |
+| **[`strix`](https://github.com/matcon/strix)** | Security Intelligence Agent | `Python` `AI` `OSINT` | Autonomous cybersecurity intelligence gatherer and automated attack surface analysis assistant. |
+| **[`codebase-memory-mcp`](https://github.com/matcon/codebase-memory-mcp)** | Model Context Protocol | `TypeScript` `MCP` `Graph AST` | High-performance MCP server providing persistent AST memory and graph reasoning for AI coding agents. |
+| **[`agency-agents`](https://github.com/matcon/agency-agents)** | Multi-Agent Workflows | `Python` `Prompt Ops` `Workflows` | Production-ready specialized AI agent configurations designed for complex engineering problem-solving. |
+
+### ⚡ Distributed Systems, Scrapers & Deep Learning
+| Project | Domain / Type | Core Technologies | Architecture & Purpose |
+| :--- | :--- | :--- | :--- |
+| **[`Medicapp`](#%EF%B8%8F-academic--engineering-milestone-medicapp)** | Telemedicine Microservices | `Rust` `Axum` `WebRTC` `PostgreSQL` | Capstone high-performance telemedicine backend featuring Clean Architecture, atomic locks, and real-time audio/video. |
+| **[`obscura`](https://github.com/matcon/obscura)** | Anti-bot Web Engine | `Rust` `Python` `Automation` | High-velocity headless web engine for stealth scraping, bypass mitigation, and markdown extraction. |
+| **[`Real-Time-Voice-Cloning`](https://github.com/matcon/Real-Time-Voice-Cloning)** | Audio Deep Learning | `PyTorch` `Tacotron` `WaveRNN` | Real-time multi-speaker voice synthesis and acoustic identity cloning pipeline. |
+| **[`faceswap`](https://github.com/matcon/faceswap)** | Computer Vision | `Python` `OpenCV` `Autoencoders` | Deep neural autoencoder models for high-fidelity facial alignment and landmark reconstruction. |
+
+<br/>
+
+<div align="center">
+
+### 📌 Interactive Project Highlights
+
+[![CamXploit](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=CamXploit&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/CamXploit)
 [![strix](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=strix&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/strix)
 [![swarmclaw](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=swarmclaw&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/swarmclaw)
-[![CamXploit](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=CamXploit&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/CamXploit)
+[![codebase-memory-mcp](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=codebase-memory-mcp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/codebase-memory-mcp)
+[![obscura](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=obscura&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/obscura)
 [![agency-agents](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=agency-agents&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/agency-agents)
 
 </div>
