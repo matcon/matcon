@@ -17,23 +17,35 @@
 
 ## 🧑‍💻 About Me
 
-```python
-#!/usr/bin/env python3
-class Matcon:
-    def __init__(self):
-        self.name        = "MATCON"
-        self.website     = "matconsec.com"
-        self.roles       = ["Security Researcher", "AI/ML Engineer", "Builder"]
-        self.interests   = ["Offensive Security", "AI Agents", "Computer Vision",
-                            "Voice Cloning", "Self-hosted Tools", "System Design"]
-        self.languages   = ["Python", "Rust", "JavaScript", "Bash"]
-        self.motto       = "Break it, learn it, build it better."
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together 🚀")
-
-me = Matcon()
-me.say_hi()
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  ██╗███╗   ██╗███████╗ ██████╗                                   │
+│  ██║████╗  ██║██╔════╝██╔═══██╗                                  │
+│  ██║██╔██╗ ██║█████╗  ██║   ██║                                  │
+│  ██║██║╚██╗██║██╔══╝  ██║   ██║                                  │
+│  ██║██║ ╚████║██║     ╚██████╔╝                                  │
+│  ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝                                  │
+│                                                                  │
+│  ╭─ Identity ─────────────────────────────────────────────────╮  │
+│  │  Name      →  MATCON                                       │  │
+│  │  Website   →  matconsec.com                                │  │
+│  │  Roles     →  Security Researcher │ AI/ML Engineer │ Builder│  │
+│  ╰────────────────────────────────────────────────────────────╯  │
+│                                                                  │
+│  ╭─ Interests ────────────────────────────────────────────────╮  │
+│  │  ▸ Offensive Security    ▸ AI Agents                       │  │
+│  │  ▸ Computer Vision       ▸ Voice Cloning                   │  │
+│  │  ▸ Self-hosted Tools     ▸ System Design                   │  │
+│  ╰────────────────────────────────────────────────────────────╯  │
+│                                                                  │
+│  ╭─ Languages ────────────────────────────────────────────────╮  │
+│  │  Python  ·  Rust  ·  JavaScript  ·  Bash                  │  │
+│  ╰────────────────────────────────────────────────────────────╯  │
+│                                                                  │
+│  💬 "Break it, learn it, build it better."                       │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
