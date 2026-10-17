@@ -21,7 +21,7 @@
  🔴 🟡 🟢  matcon@archlinux: ~ (zsh)
 ─────────────────────────────────────────────────────────────────────────────
         /\         OS:       Arch Linux x86_64 [Wayland / Niri]
-       /  \        Kernel:   Linux 6.19.10-arch / eBPF-enabled
+       /  \        Kernel:   Linux 7.2.4-arch / eBPF-enabled
       /\   \       Terminal: kitty + zsh
      /      \      Host:     MATCON Research Lab (https://matconsec.com)
     /   ,,   \     Degree:   B.S. Informatics & Telecommunications Engineering (INACAP)
@@ -37,7 +37,7 @@
 | **🛡️ Offensive & Defensive Security** | Exploit Dev, IoT Reconnaissance, Adversarial ML & Neural Trojans | **ISO/IEC 27001**, Tríada CIA, Cryptography (AES/RSA/PKI) |
 | **🏎️ Kernel & Automotive Firmware** | **Linux eBPF** firewalls (`CondorWall`), Bosch MEDC17 ECU checksums, EEPROM | Binary Reverse Engineering, Disassembly, Kernel Sockets |
 | **🦀 Concurrency & Backends** | High-throughput Microservices in **Rust (Axum/Tokio)** & **FastAPI** | Clean / Hexagonal Architecture, Celery, Redis Atomic Locks |
-| **🤖 Autonomous AI & Gateways** | Enterprise AI Gateways (`OmniRoute`), Multi-Agent Swarms & MCP Servers | Swarm Intelligence, Token Compression, Vector ASTs |
+| **🤖 Autonomous AI & SWE Engines** | Autonomous SWE Superintelligence (`SuperAgent`), AI Gateways (`OmniRoute`), Swarms & MCP | Tripartite Memory (FTS5 + Graphify), DAG Swarm Waves, Reflexion Checkpoints, AST Guards |
 | **🐘 Big Data & Analytics** | Distributed Processing (**Hadoop HDFS HA, Spark**) & Data Warehousing | **CRISP-DM / KDD**, **DMBOK2 (DAMA)**, Power BI DAX |
 | **☁️ Cloud & Infrastructure** | **AWS** (EC2, S3, RDS, IAM, VPC), Containers (**Docker/Compose**), Linux | Infrastructure as Code, Linux Hardening, Cisco CCNA Networking |
 
@@ -66,6 +66,7 @@
 ### 🛡️ Cybersecurity, Kernel & Low-Level Engineering
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 ![eBPF](https://img.shields.io/badge/Linux_eBPF_/_NFQUEUE-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Wayland](https://img.shields.io/badge/Wayland_DMA--BUF-0D1117?style=for-the-badge&logo=wayland&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FF6633)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
@@ -80,6 +81,7 @@
 ![Hardware Hacking](https://img.shields.io/badge/Embedded_Hardware_Security-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
 
 ### 🤖 Artificial Intelligence, Agents & Vector Memory
+![SuperAgent](https://img.shields.io/badge/SuperAgent_SWE_Engine-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV_ALPR-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
@@ -192,6 +194,9 @@
 ### 🦅 Linux Kernel, Low-Level Security & Network Defenses
 | Project | Domain / Type | Core Technologies | Architecture & Purpose |
 | :--- | :--- | :--- | :--- |
+| **[`rustdesk`](https://github.com/matcon/rustdesk)** | Wayland Remote Desktop | `Rust` `Flutter` `Wayland` `DMA-BUF` `VP9` | High-performance remote desktop fork with zero-copy DMA-BUF hardware capture, OnceLock dlopen caching, VP9 multi-threading, and QoS optimization for Wayland. |
+| **`QuestDesk`** | Spatial Computing & XR Desktop | `Rust` `Wayland` `Niri` `WebRTC` `VR` | Spatial interactive desktop transforming Meta Quest 2 into an immersive multi-monitor workspace for Arch Linux (Wayland + Niri) over Wi-Fi LAN. |
+| **`niri-deck`** | Wayland Mobile Control Deck | `Python` `FastAPI` `Android` `Kotlin` `Niri IPC` | Low-latency mobile companion control deck for the Niri Wayland compositor with zero-trust cryptographic pairing and Material 3 design. |
 | **`CondorWall`** | Linux Application Firewall | `Rust` `Linux eBPF` `NFQUEUE` `IPC` | Low-level interactive application-layer firewall for Linux; intercepts socket connections in kernel-space via eBPF/NFQUEUE and queries a root Rust daemon via UNIX sockets. |
 | **[`dotfiles`](https://github.com/matcon/dotfiles)** | Disaster Recovery & SysAdmin | `Bash` `Niri` `Kitty` `Zsh` | Complete Arch Linux disaster recovery suite; automated installer, 250+ package definitions, and configs for Niri & DMS. |
 | **[`CamXploit`](https://github.com/matcon/CamXploit)** | IoT Exploitation & Recon | `Python` `Networking` `RTSP` | Automated vulnerability detection, fingerprinting, and exploitation framework for networked IP cameras. |
@@ -207,9 +212,12 @@
 ### 🤖 Agentic AI, AI Gateways & Swarm Intelligence
 | Project | Domain / Type | Core Technologies | Architecture & Purpose |
 | :--- | :--- | :--- | :--- |
+| **[`superagent`](https://github.com/matcon/superagent)** | Autonomous SWE Superintelligence | `Python` `AST` `SQLite FTS5` `MCP` `Linux` | Frontier autonomous SWE engine featuring tripartite memory (SQLite BM25 FTS5 + Graphify), DAG swarm orchestration with Kahn wave concurrency, closed-loop reflexion verification with Git checkpoints, in-memory ACI & SAST guards, and native stdio MCP server. |
+| **`smartson`** | Autonomous Wayland Agent | `Python` `Wayland` `Niri` `CV` | Ultra-fast autonomous AI solver for Wayland/Niri with human-like Bézier cursor curves, Fitts acceleration, and multi-modal form automation. |
 | **`OmniRoute`** | Enterprise AI Gateway | `TypeScript` `Python` `FastAPI` `Proxy` | The Free AI Gateway aggregating 278 AI providers across 43 pools; features stacked token compression (RTK + Caveman) saving ~89% tokens and intelligent failover. |
 | **[`swarmclaw`](https://github.com/matcon/swarmclaw)** | Multi-Agent Orchestration | `Python` `Agents` `Swarm` | Scalable coordination engine enabling autonomous multi-agent task distribution, tool-calling, and consensus. |
 | **[`strix`](https://github.com/matcon/strix)** | Security Intelligence Agent | `Python` `AI` `OSINT` | Autonomous cybersecurity intelligence gatherer and automated attack surface analysis assistant. |
+| **[`autodev-codebase`](https://github.com/matcon/autodev-codebase)** | Local Semantic Search MCP | `Python` `MCP` `Ollama` `Vectors` | Vector embedding-based semantic code search tool with local Ollama embeddings, reranking, and multi-model MCP integration. |
 | **`aura-agent`** | Autonomous Web Agent | `Python` `ChromaDB` `Browser Automation` | Autonomous browser agent capable of multi-step task execution, DOM distillation, and vector memory retrieval. |
 | **[`codebase-memory-mcp`](https://github.com/matcon/codebase-memory-mcp)** | Model Context Protocol | `TypeScript` `MCP` `Graph AST` | High-performance MCP server providing persistent AST memory and graph reasoning for AI coding agents. |
 | **[`agency-agents`](https://github.com/matcon/agency-agents)** | Multi-Agent Workflows | `Python` `Prompt Ops` `Workflows` | Production-ready specialized AI agent configurations designed for complex engineering problem-solving. |
@@ -218,6 +226,9 @@
 | Project | Domain / Type | Core Technologies | Architecture & Purpose |
 | :--- | :--- | :--- | :--- |
 | **[`Medicapp`](#%EF%B8%8F-academic--engineering-milestone-medicapp)** | Telemedicine Microservices | `Rust` `Axum` `WebRTC` `PostgreSQL` | Capstone high-performance telemedicine backend featuring Clean Architecture, atomic locks, and real-time audio/video. |
+| **`flybrain-trading`** | Neuromorphic Quant Finance | `Python` `PyTorch` `Connectome` `LSM` | Neuromorphic Liquid State Machine (LSM) built on the *Drosophila melanogaster* biological connectome for non-linear market regime forecasting. |
+| **[`Kronos`](https://github.com/matcon/Kronos)** | Financial Foundation Model | `PyTorch` `Transformers` `Quant Finance` | Foundation model for financial time-series and market dynamics language representation. |
+| **[`supervision`](https://github.com/matcon/supervision)** | Computer Vision Tooling | `Python` `OpenCV` `Detection` `Tracking` | Reusable computer vision utilities for detection, tracking, supervision, and automated video dataset annotation. |
 | **`android_ocr_patentes`** | Edge Computer Vision | `Python` `OpenCV` `Flet` `Android` | Real-time on-device Automatic License Plate Recognition (ALPR) system for vehicle surveillance and parking automation. |
 | **[`TrojanNet`](https://github.com/matcon/TrojanNet)** | Adversarial AI Security | `PyTorch` `Deep Learning` `CNN` | Research on neural network backdoor injection, stealthy trigger generation, and model integrity verification. |
 | **[`HackingNeuralNetworks`](https://github.com/matcon/HackingNeuralNetworks)** | AI Red Teaming | `Python` `Adversarial ML` `Jupyter` | Practical implementations of evasion attacks, poisoning, and robustness testing on deep learning models. |
@@ -231,13 +242,15 @@
 
 ### 📌 Interactive Project Highlights
 
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=dotfiles&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/dotfiles)
-[![CamXploit](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=CamXploit&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/CamXploit)
+[![superagent](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=superagent&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/superagent)
+[![rustdesk](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=rustdesk&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/rustdesk)
 [![strix](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=strix&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/strix)
 [![swarmclaw](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=swarmclaw&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/swarmclaw)
 [![codebase-memory-mcp](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=codebase-memory-mcp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/codebase-memory-mcp)
 [![obscura](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=obscura&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/obscura)
 [![agency-agents](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=agency-agents&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/agency-agents)
+[![CamXploit](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=CamXploit&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/CamXploit)
+[![Kronos](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=Kronos&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/Kronos)
 
 </div>
 
