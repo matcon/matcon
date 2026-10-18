@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER: Animated typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=100&lines=%F0%9F%94%90+Cybersecurity+%E2%80%A2+AI%2FML+%E2%80%A2+Distributed+Systems;Informatica+%7C+Big+Data+%7C+Cloud+%7C+Rust+%7C+Python;Breaking+things+to+make+them+bulletproof+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=100&lines=%F0%9F%94%90+Cybersecurity+%E2%80%A2+AI%2FML+%E2%80%A2+Distributed+Systems;Rust+%E2%80%A2+Python+%E2%80%A2+Linux+Kernel+eBPF+%E2%80%A2+Wayland;Breaking+things+to+make+them+bulletproof+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=MATCON&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20AI%2FData%20Architect&descSize=17&descColor=C9D1D9&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=MATCON&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Systems%20Architect&descSize=17&descColor=C9D1D9&descAlignY=55" width="100%" />
 
 <!-- SOCIAL & SPOTLIGHT BADGES -->
 [![SuperAgent](https://img.shields.io/badge/⚡_SuperAgent-v2.3.0--Apex-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=0D1117)](https://github.com/matcon/superagent)
@@ -19,16 +19,17 @@
 ## 🧑‍💻 System Dossier & Identity
 
 ```
- 🔴 🟡 🟢  matcon@archlinux: ~ (zsh)
-─────────────────────────────────────────────────────────────────────────────
-        /\         OS:       Arch Linux x86_64 [Wayland / Niri 26.04]
-       /  \        Kernel:   Linux 7.2.4-arch / eBPF-enabled
-      /\   \       Terminal: kitty + zsh
-     /      \      Host:     MATCON Research Lab (https://matconsec.com)
-    /   ,,   \     Degree:   B.S. Informatics & Telecommunications Engineering (INACAP)
-   /   |  |  -\    Capstone: Medicapp (Rust Axum 0.7 + Real-Time WebRTC Microservices)
-  /_-''    ''-_\   Status:   Security Researcher │ AI & Data Engineer │ Systems Builder
-─────────────────────────────────────────────────────────────────────────────
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ 🔴 🟡 🟢  matcon@archlinux: ~ (zsh)                                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│        /\         OS:       Arch Linux x86_64 [Wayland / Niri 26.04]        │
+│       /  \        Kernel:   Linux 7.2.4-arch / eBPF-enabled                 │
+│      /\   \       Terminal: kitty + zsh                                     │
+│     /      \      Host:     MATCON Research Lab                             │
+│    /   ,,   \     Degree:   B.S. Informatics & Telecom Engineering (INACAP) │
+│   /   |  |  -\    Capstone: Medicapp (Rust Axum 0.7 + Real-Time WebRTC)     │
+│  /_-''    ''-_\   Status:   Security Researcher │ AI & Systems Architect    │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <div align="center">
@@ -77,12 +78,6 @@
 ![Cryptography](https://img.shields.io/badge/AES--256%20%2F%20RSA%20%2F%20PKI-0D1117?style=for-the-badge&logo=vault&logoColor=00FF41)
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-0D1117?style=for-the-badge&logo=adguard&logoColor=00FF41)
 
-### 🏎️ Automotive Firmware & Binary Reverse Engineering
-![ECU Checksum](https://img.shields.io/badge/Bosch_MEDC17_ECU-0D1117?style=for-the-badge&logo=electron&logoColor=FF9900)
-![EEPROM](https://img.shields.io/badge/EEPROM_Binary_Disassembly-0D1117?style=for-the-badge&logo=gnu&logoColor=00FF41)
-![Hex Patching](https://img.shields.io/badge/Automated_Hex_Patching-0D1117?style=for-the-badge&logo=sublimetext&logoColor=FF6633)
-![Hardware Hacking](https://img.shields.io/badge/Embedded_Hardware_Security-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
-
 ### 🤖 Artificial Intelligence, Distributed Inference & Vector Memory
 ![SuperAgent](https://img.shields.io/badge/SuperAgent_v2.3.0--Apex-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41)
 ![Distributed LLM](https://img.shields.io/badge/Heterogeneous_LLM_Cluster_(CUDA+RPC)-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
@@ -95,14 +90,11 @@
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-0D1117?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
-### 🐘 Big Data, Databases & Business Intelligence
-![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop_HA-0D1117?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark_/_PySpark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis_7-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![SQL Server](https://img.shields.io/badge/SQL_Server_SSAS-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC292B)
-![Power BI](https://img.shields.io/badge/Power_BI_DAX-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![DMBOK2](https://img.shields.io/badge/DMBOK2_Data_Governance-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+### 🏎️ Automotive Firmware & Binary Reverse Engineering
+![ECU Checksum](https://img.shields.io/badge/Bosch_MEDC17_ECU-0D1117?style=for-the-badge&logo=electron&logoColor=FF9900)
+![EEPROM](https://img.shields.io/badge/EEPROM_Binary_Disassembly-0D1117?style=for-the-badge&logo=gnu&logoColor=00FF41)
+![Hex Patching](https://img.shields.io/badge/Automated_Hex_Patching-0D1117?style=for-the-badge&logo=sublimetext&logoColor=FF6633)
+![Hardware Hacking](https://img.shields.io/badge/Embedded_Hardware_Security-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
 
 ### ⚙️ Backend, Systems, Mobile & AR
 ![Axum](https://img.shields.io/badge/Axum_(Rust)-0D1117?style=for-the-badge&logo=rust&logoColor=DEA584)
@@ -113,6 +105,15 @@
 ![ARCore](https://img.shields.io/badge/ARCore_/_3D_Triangulation-0D1117?style=for-the-badge&logo=google&logoColor=00FF41)
 ![Android](https://img.shields.io/badge/Android_Kotlin_/_Flet-0D1117?style=for-the-badge&logo=android&logoColor=34A853)
 ![Celery](https://img.shields.io/badge/Celery_Workers-0D1117?style=for-the-badge&logo=celery&logoColor=37814A)
+
+### 🐘 Big Data, Databases & Business Intelligence
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop_HA-0D1117?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark_/_PySpark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis_7-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![SQL Server](https://img.shields.io/badge/SQL_Server_SSAS-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC292B)
+![Power BI](https://img.shields.io/badge/Power_BI_DAX-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![DMBOK2](https://img.shields.io/badge/DMBOK2_Data_Governance-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
 ### ☁️ Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS_(EC2,_S3,_RDS,_IAM,_VPC)-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
@@ -137,18 +138,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Real-Time Telemetry
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
+<!-- Row 1: Symmetrical Pair -->
 <img src="https://github-readme-stats.vercel.app/api?username=matcon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" width="49%" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="41%" alt="Top Languages" />
-
-<!-- GitHub Streak Stats (Demolab CDN - High Reliability) -->
 <img src="https://streak-stats.demolab.com/?user=matcon&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" width="49%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Row 2: Top Languages Centered -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="55%" alt="Top Languages" />
 
 </div>
 
@@ -230,15 +231,14 @@
 
 ### 📌 Interactive Project Highlights
 
-[![superagent](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=superagent&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/superagent)
-[![rustdesk](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=rustdesk&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/rustdesk)
-[![strix](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=strix&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/strix)
-[![swarmclaw](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=swarmclaw&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/swarmclaw)
-[![codebase-memory-mcp](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=codebase-memory-mcp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/codebase-memory-mcp)
-[![obscura](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=obscura&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/obscura)
-[![agency-agents](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=agency-agents&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/agency-agents)
-[![CamXploit](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=CamXploit&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/CamXploit)
-[![Kronos](https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=Kronos&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)](https://github.com/matcon/Kronos)
+<a href="https://github.com/matcon/superagent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=superagent&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%" /></a>
+<a href="https://github.com/matcon/rustdesk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=rustdesk&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%" /></a>
+
+<a href="https://github.com/matcon/strix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=strix&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%" /></a>
+<a href="https://github.com/matcon/swarmclaw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=swarmclaw&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%" /></a>
+
+<a href="https://github.com/matcon/codebase-memory-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=codebase-memory-mcp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%" /></a>
+<a href="https://github.com/matcon/obscura"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=obscura&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%" /></a>
 
 </div>
 
@@ -247,29 +247,25 @@
 <div align="center">
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=110&section=footer" width="100%" />
 
-<br>
+<br/>
 
 ```
-⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣿⣿⣿⣿⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀
-⠀⠀⠀⣠⣾⣿⣿⣿⣿⡿⠛⠉⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿⣷⣄⠀⠀⠀
-⠀⠀⣴⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣦⠀⠀
-⠀⣼⣿⣿⣿⡿⠁⠀⠀⠀⣤⡄⠀⠀⠀⠀⢠⣤⠀⠀⠀⠈⢿⣿⣿⣿⣧⠀
-⢰⣿⣿⣿⣿⠁⠀⠀⢀⡞⠁⠀⠀⠀⠀⠀⠀⠈⢳⡀⠀⠀⠈⣿⣿⣿⣿⡆
-⣾⣿⣿⣿⡏⠀⠀⠀⢸⠁⠀⣠⣶⣶⣶⣶⣄⠀⠈⡇⠀⠀⠀⢹⣿⣿⣿⣷
-⣿⣿⣿⣿⡇⠀⠀⠀⠘⣆⠀⠻⣿⣿⣿⣿⠟⠀⣰⠃⠀⠀⠀⢸⣿⣿⣿⣿
-⣿⣿⣿⣿⡇⠀⠀⠀⠀⠈⠳⣤⣀⠉⠉⣀⣤⠞⠁⠀⠀⠀⠀⢸⣿⣿⣿⣿
-⢿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡿
-⠸⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀  HACK  ⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⠇
-⠀⢻⣿⣿⣿⣿⡄⠀⠀⠀⠀  THE  ⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⡟⠀
-⠀⠀⠻⣿⣿⣿⣿⣦⠀⠀⠀  PLANET ⠀⠀⠀⣴⣿⣿⣿⣿⠟⠀⠀
-⠀⠀⠀⠙⣿⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⠋⠀⠀⠀
-⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀
+┌──(matcon㉿archlinux)-[~]
+└─$ echo "Resilience by design. Autonomous intelligence by engineering."
 ```
 
-<sub>⚡ "In a world full of locked doors, the ones with curiosity always find a way in."</sub>
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_matconsec.com-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://matconsec.com)
+[![GitHub](https://img.shields.io/badge/GitHub-matcon-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/matcon)
+[![GPG Key](https://img.shields.io/badge/GPG-Verified_Key-0D1117?style=for-the-badge&logo=gnupg&logoColor=00FF41)](https://github.com/matcon.gpg)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-Wayland_%2F_Niri-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://archlinux.org)
+
+<br/>
+
+<sub>⚡ *"In a world of locked doors, deep curiosity and rigorous engineering build the master keys."*</sub>  
+<sub>Crafted with technical rigor & aesthetic discipline • Arch Linux x86_64 • Kernel 7.2.4-arch</sub>
 
 </div>
