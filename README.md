@@ -7,10 +7,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=MATCON&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Systems%20Architect&descSize=17&descColor=C9D1D9&descAlignY=55" width="100%" />
 
 <!-- SOCIAL & SPOTLIGHT BADGES -->
-[![SuperAgent](https://img.shields.io/badge/⚡_SuperAgent-v2.3.0--Apex-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=0D1117)](https://github.com/matcon/superagent)
-[![Website](https://img.shields.io/badge/🌐_matconsec.com-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://matconsec.com)
+[![SuperAgent](https://img.shields.io/badge/%E2%9A%A1_SuperAgent-v2.3.0--Apex-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=0D1117)](https://github.com/matcon/superagent)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_matconsec.com-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://matconsec.com)
 [![GitHub followers](https://img.shields.io/github/followers/matcon?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41)](https://github.com/matcon?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=matcon&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)](https://github.com/matcon)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=matcon.matcon&left_text=PROFILE+VIEWS&left_color=0D1117&right_color=00FF41)](https://github.com/matcon)
 
 </div>
 
@@ -80,7 +80,7 @@
 
 ### 🤖 Artificial Intelligence, Distributed Inference & Vector Memory
 ![SuperAgent](https://img.shields.io/badge/SuperAgent_v2.3.0--Apex-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41)
-![Distributed LLM](https://img.shields.io/badge/Heterogeneous_LLM_Cluster_(CUDA+RPC)-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Distributed LLM](https://img.shields.io/badge/Heterogeneous_LLM_Cluster_%28CUDA%2BRPC%29-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV_ALPR-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
@@ -97,7 +97,7 @@
 ![Hardware Hacking](https://img.shields.io/badge/Embedded_Hardware_Security-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
 
 ### ⚙️ Backend, Systems, Mobile & AR
-![Axum](https://img.shields.io/badge/Axum_(Rust)-0D1117?style=for-the-badge&logo=rust&logoColor=DEA584)
+![Axum](https://img.shields.io/badge/Axum_%28Rust%29-0D1117?style=for-the-badge&logo=rust&logoColor=DEA584)
 ![Tokio](https://img.shields.io/badge/Tokio_Async-0D1117?style=for-the-badge&logo=rust&logoColor=00FF41)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -116,7 +116,7 @@
 ![DMBOK2](https://img.shields.io/badge/DMBOK2_Data_Governance-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
 ### ☁️ Cloud, DevOps & Infrastructure
-![AWS](https://img.shields.io/badge/AWS_(EC2,_S3,_RDS,_IAM,_VPC)-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS_%28EC2%2C_S3%2C_RDS%2C_IAM%2C_VPC%29-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker_&_Compose-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Arch_Linux_/_RHEL-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git_&_GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
@@ -227,9 +227,23 @@
 
 <br/>
 
-<div align="center">
+---
 
-### 📌 Interactive Project Highlights
+## 📌 Interactive Project Highlights
+
+### ⚡ Flagship Architecture: [`superagent`](https://github.com/matcon/superagent) `v2.3.0-Apex`
+> **Frontier Autonomous SWE Superintelligence (SWE-SI)**: Motor autónomo de ingeniería de software con torneos de candidatos Best-of-N en worktrees paralelos, mutación dinámica de tareas DAG en tiempo de ejecución, memoria tripartita y bucle cerrado de verificación con auto-curación AST.
+
+- **🏆 Torneos de Candidatos Best-of-N (`core/worktree_sandbox.py`)**: Despliega múltiples *Git worktrees* efímeros y aislados en paralelo para competir hipótesis de parches, seleccionando y promoviendo automáticamente la solución con mejor métrica combinada de tests, menor complejidad ciclomática y 0 alertas SAST.
+- **🌊 Mutación Dinámica del Enjambre DAG (`core/orchestrator.py`)**: Orquestación concurrente por oleadas basada en el algoritmo topológico de Kahn, permitiendo inyectar tareas y mutar el grafo de dependencias en caliente según los descubrimientos del pipeline.
+- **🧠 Memoria Tripartita Persistente (`core/memory.py`)**: Arquitectura de 3 capas: memoria episódica con SQLite WAL + BM25 FTS5, grafo de conocimiento topológico AST vía Graphify y expansión semántica de consultas.
+- **🔄 Auto-Curación con Reflexión Atómica (`core/reflexion.py` & `core/auto_fix.py`)**: Generación de parches en *Unified Diff*, pre-validación sintáctica en memoria con `ast.parse()` antes de tocar disco y prevención de bucles infinitos por huella digital SHA-256 de `DiagnosticReport`.
+- **🛡️ Guardián ACI & SAST Local (`core/aci_guard.py` & `core/sast.py`)**: Verificación estricta de complejidad de McCabe (< 15), límites de profundidad cognitiva AST y detección de secretos por entropía de Shannon ($H > 4.5$) sin dependencias externas.
+- **🔌 Servidor MCP Nativo (`core/mcp_server.py`)**: Protocolo Model Context Protocol completo sobre Standard I/O (JSON-RPC 2.0) exponiendo auditorías, telemetría, sandbox y memoria a cualquier IDE o cliente de IA.
+
+<br/>
+
+<div align="center">
 
 <a href="https://github.com/matcon/superagent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=superagent&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%" /></a>
 <a href="https://github.com/matcon/rustdesk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matcon&repo=rustdesk&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%" /></a>
@@ -258,7 +272,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_matconsec.com-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://matconsec.com)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_matconsec.com-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://matconsec.com)
 [![GitHub](https://img.shields.io/badge/GitHub-matcon-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/matcon)
 [![GPG Key](https://img.shields.io/badge/GPG-Verified_Key-0D1117?style=for-the-badge&logo=gnupg&logoColor=00FF41)](https://github.com/matcon.gpg)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-Wayland_%2F_Niri-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://archlinux.org)
